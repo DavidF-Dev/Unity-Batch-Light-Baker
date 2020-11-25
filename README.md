@@ -1,7 +1,7 @@
 # Unity Batch Light Baker
 A tool that bakes the lighting for multiple scenes, and automatically compresses the assets.
 
-Download the Unity Package from [**Releases**](https://github.com/DavidF-Dev/Unity-Batch-Light-Baker/releases) tab.
+Download the Unity Package from [**Releases**](https://github.com/DavidF-Dev/Unity-Batch-Light-Baker/releases/latest) tab.
 
 ## Instructions
 To begin, open the tool window in *Tools > DavidFDev > Batch Bake Lighting*.
